@@ -7,6 +7,7 @@ import time
 simulations = 6
 num_decks = 4
 shuffle_perc = 75
+# making a change within visual studio to check whether it goes onto git
 
 def simulate(queue, batch_size):
     deck = []
